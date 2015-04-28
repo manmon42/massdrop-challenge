@@ -1,5 +1,5 @@
 # massdrop-challenge
 
 #Requirements
-  mongodb
-  redis
+  -mongodb
+  -redis
